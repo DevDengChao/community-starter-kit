@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It's a GitHub Apps to automate and improve your workflow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Receive webhooks and use the authenticated client to access the GitHub API. Granular permissions give each app access only to the data it needs and nothing more.
+
+Focus on what you want to build. A simple API—built on the latest ES6 JavaScript features—hides the details you don't care about.
 
 ## Getting started
 
